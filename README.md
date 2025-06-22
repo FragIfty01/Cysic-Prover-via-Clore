@@ -22,6 +22,10 @@
 - Code : 528a1
 - You can complete the social tasks as well
 
+## Get eth RPC
+
+- Check this guide : https://timemeansalots-organization.gitbook.io/docs.cysic.xyz/tutorial-docs/how-to-run-a-prover-node#get-free-rpc-endpoint-used-by-eth-proof
+
 ## 📥 Installation
 
 - Open a screen session
@@ -34,13 +38,13 @@ screen -S cysic
 apt update && apt install -y curl
 ```
 
-- Install ETH prover ( Make sure to replace with your reward address and RPC )
+- Install ETH prover ( Make sure to replace with your reward address including 0x and RPC )
 
   
 ```
 curl -L https://github.com/cysic-labs/cysic-phase3/releases/download/v1.0.0/setup_prover.sh \
 > ~/setup_prover.sh && \
-bash ~/setup_prover.sh 0x-YourRewardAddressHere Your_RPC_URL
+bash ~/setup_prover.sh Your_evm_address(including 0x) Your_RPC_URL
 ```
 ## Should look like this after the prover is online 
 
