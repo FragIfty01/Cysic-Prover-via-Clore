@@ -53,7 +53,7 @@ bash ~/setup_prover.sh Your_evm_address(including 0x) Your_RPC_URL
 ## Remarks
 
 - Getting tasks are random
-- Prover number in dashboard is wrong , it should be only around 2-3K .
+- Active prover number in dashboard is wrong , it should be max 2-3K .
 - If you face any issue , head over to DC : https://discord.gg/R7F2pu86 . Use testnet-support channel there. You can ping me as well.
 
 
