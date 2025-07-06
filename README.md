@@ -46,6 +46,11 @@ curl -L https://github.com/cysic-labs/cysic-phase3/releases/download/v1.0.0/setu
 > ~/setup_prover.sh && \
 bash ~/setup_prover.sh Your_evm_address(including 0x) Your_RPC_URL
 ```
+
+```
+cd cysic-prover && ./start.sh
+```
+
 ## Should look like this after the prover is online 
 
 ![Image](https://github.com/user-attachments/assets/ec85ed72-e1b0-4bb3-9fd4-97475f754e79)
