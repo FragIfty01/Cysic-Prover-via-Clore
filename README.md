@@ -9,7 +9,7 @@
 | **GPUs**                            | 3090 , 4090                                                 |
 | **Disk/Storage**                    | 50-100 GB                                                   |
 | **Operating System**                | Ubuntu 24                                                   |
-| ** CUDA Version**                   | 12.5+                                                       |
+| **CUDA Version**                    | 12.5+                                                       |
 ## Rent GPU
 
 - Check my previous GPU setup guide here : [Clore setup guide ](https://github.com/FragIfty01/Gensyn-via-Clore-ai)
